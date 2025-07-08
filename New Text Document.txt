@@ -1,0 +1,42 @@
+caeser:
+
+key-> abcdefghijklmnopqrstuvwxyz
+
+message-> mti
+
+
+----------------
+mono:
+
+key-> ghijklmnopqrstuvwxyzabcdef
+
+message-> mti
+
+-----------------
+rail:
+
+key->3
+
+message-> mtilaugh
+
+-----------------
+poly:
+
+key-> hello
+
+message-> world
+-----------------
+play:
+
+key-> mti
+
+message-> laugh
+
+
+
+-----------------
+play:
+
+key-> hello
+
+message-> world
